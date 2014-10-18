@@ -1,0 +1,7 @@
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/bin/Debug/SqlSaturdayDemo1.dll.mdb
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/bin/Debug/SqlSaturdayDemo1.dll
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/obj/Debug/SqlSaturdayDemo1.dll
+/Volumes/Data/GitHub/SqlSaturdayDemo1/SqlSaturdayDemo1/obj/Debug/SqlSaturdayDemo1.dll.mdb
